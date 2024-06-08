@@ -1,2 +1,2 @@
 # room-setup
-only files when it needs first room setup
+Files it needs first room setup
